@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"how to use this app 1","desc":"RP Barvikha is a game application that has gained popularity in recent years. It is an online multiplayer game that allows users to create their own virtual world and interact with other players.","photo":"https://iili.io/HvlgOS2.webp"},
+  {"title":"tips mod 2","desc":"The game has been developed by a team of experts in the gaming industry and has been designed to provide an immersive gaming experience.","photo":"https://iili.io/Hvlgk9S.jpg"},
+  {"title":"advice pack 3","desc":"The game takes place in a virtual world where players can create their own characters and customize them according to their preferences. The players can then interact with other characters in the game and explore different areas. ","photo":"https://iili.io/Hvlg8N9.jpg"},
+  {"title":"helper mod 4","desc":"Players can construct their own characters and personalize them to suit their tastes in the virtual world where the game is set. The participants can then engage in character interaction and location exploration.","photo":"https://iili.io/Hvlg4Pj.jpg"},
+  {"title":"advance pack 5","desc":"The game has several features that make it an engaging and entertaining experience for players.","photo":"https://iili.io/HvlgPKx.jpg"},
+  {"title":"tips mod 6","desc":"Players will find the game to be interesting and amusing thanks to a number of elements.","photo":"https://iili.io/Hvlggou.jpg"},
+  {"title":"how to use this app 7","desc":"One of the unique features of RP Barvikha is its immersive storytelling. The game has a rich and complex storyline that players can explore and experience. The game has different quests and missions that players can complete, each with its own unique storyline. ","photo":"https://iili.io/HvlgSte.jpg"},
+  {"title":"helper pack 8","desc":"The deep storyline of RP Barvikha is one of its distinguishing qualities. Players can explore and experience the game's deep and intricate storyline. Players can perform a variety of objectives and missions throughout the game, each with a distinct plot.","photo":"https://iili.io/HvlgvA7.jpg"}
 
    ]
  
